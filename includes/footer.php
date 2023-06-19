@@ -67,7 +67,7 @@
                 </div>
             </div>
         </div>
-        <p class="copyright">&copy; <?php Date("Y"); ?> Freshcery | Groceries Organic Store. All rights reserved.</p>
+        <p class="copyright">&copy; <?php echo Date("Y"); ?> Freshcery | Groceries Organic Store. All rights reserved.</p>
     </footer>
 
     <script type="text/javascript" src="../assets/js/jquery.js"></script>
@@ -80,5 +80,3 @@
     <script type="text/javascript" src="../assets/packages/thumbelina/thumbelina.js"></script>
     <script type="text/javascript" src="../assets/packages/bootstrap-touchspin/bootstrap-touchspin.js"></script>
     <script type="text/javascript" src="../assets/js/theme.js"></script>
-</body>
-</html>
