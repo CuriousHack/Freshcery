@@ -67,7 +67,7 @@
                 </div>
             </div>
         </div>
-        <p class="copyright">&copy; 2018 Freshcery | Groceries Organic Store. All rights reserved.</p>
+        <p class="copyright">&copy; <?php Date("Y"); ?> Freshcery | Groceries Organic Store. All rights reserved.</p>
     </footer>
 
     <script type="text/javascript" src="../assets/js/jquery.js"></script>
